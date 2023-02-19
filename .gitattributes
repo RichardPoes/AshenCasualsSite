@@ -1,0 +1,7 @@
+*.xlsx filter=lfs diff=lfs merge=lfs -text
+*.xslm filter=lfs diff=lfs merge=lfs -text
+*.pptx filter=lfs diff=lfs merge=lfs -text
+*.docx filter=lfs diff=lfs merge=lfs -text
+*.jpg filter=lfs diff=lfs merge=lfs -text
+*.png filter=lfs diff=lfs merge=lfs -text
+*.drawio.svg filter=lfs diff=lfs merge=lfs -text
